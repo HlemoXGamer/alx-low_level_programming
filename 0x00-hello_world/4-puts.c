@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main Function prints the phrase of puts function
- * Return: 0 on run
+ * main - prints the phrase "Programming is like building a multilingual puzzle
+ * Return: 0 if exited properly, non-zero otherwise
  */
 int main(void)
 {
