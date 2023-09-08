@@ -10,8 +10,8 @@ int main(void)
 
 	for (n = 0; n < 10; n++)
 	{
-		putchar(num + '0');
-		if (num == 9) /* to stop it from puting 9 after last number */
+		putchar(n + '0');
+		if (n == 9) /* to stop it from puting 9 after last number */
 			continue;
 
 		putchar(',');
