@@ -11,7 +11,7 @@ void _putchar(char str[])
 	{
 		putchar(str[i]);
 		if(str[i] == '\0')
-			putchar('\n')
+			putchar('\n');
 	}
 }
 
