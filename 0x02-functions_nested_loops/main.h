@@ -1,6 +1,8 @@
 #ifndef MAIN
 #define MAIN
 
-void _putchar(char str[]);
+#include <stdio.h>
+
+int _putchar(char c);
 
 #endif
