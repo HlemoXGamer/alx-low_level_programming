@@ -2,6 +2,7 @@
 
 /**
  * main - prints the status of an integer
+ * positive_or_negative - print int status
  * Return: Always 0
  */
 
