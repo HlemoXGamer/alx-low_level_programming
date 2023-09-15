@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_most_ibers - print all decimal digits expect 2 and 4
+ * print_most_numbers - print all decimal digits expect 2 and 4
  * _putchar - print a char
  * Return: Always 0
  */
