@@ -1,6 +1,6 @@
 /**
  * _isupper - check if c is upper or not
- * @c: input 
+ * @c: input
  * Return: 1 if upper, 0 if lower
  */
 
