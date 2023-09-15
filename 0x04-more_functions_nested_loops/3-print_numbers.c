@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_number - print all decimal digits
+ * print_numbers - print all decimal digits
  * _putchar - print a char
  * Return: Always 0
  */
