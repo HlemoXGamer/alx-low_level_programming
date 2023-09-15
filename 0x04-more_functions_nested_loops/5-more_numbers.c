@@ -10,6 +10,7 @@ void more_numbers(void)
 {
 	int passes = 0;
 	int i = 0;
+	int c = 0;
 
 	for (passes = 0; passes <= 9; passes++)
 	{
@@ -21,7 +22,7 @@ void more_numbers(void)
 				_putchar(1 + 48);
 				c = i % 10;
 			}
-			_putchar(i + 48);
+			_putchar(c + 48);
 		}
 		_putchar('\n');
 	}
